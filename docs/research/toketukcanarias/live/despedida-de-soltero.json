@@ -1,0 +1,167 @@
+{
+ "title": "Ruta VIP: Despedida de Soltero en Tuk Tuk por Santa Cruz - Descubre Tenerife en Tuk Tuk - TokeTuk Canarias",
+ "h": 4368,
+ "widgets": {
+  "html.default": 1,
+  "heading.default": 3,
+  "text-editor.default": 3,
+  "media-carousel.default": 1,
+  "google_maps.default": 1,
+  "toggle.default": 2
+ },
+ "imgs": [],
+ "bgs": [
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-15-at-07.50.51.jpeg",
+   "w": 550,
+   "h": 450,
+   "top": 1108
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/10.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1108
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/9.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1108
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/8.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1108
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-15-at-07.50.51.jpeg",
+   "w": 550,
+   "h": 450,
+   "top": 1108
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/10.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1108
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/9.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1108
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/8.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1108
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-15-at-07.50.51.jpeg",
+   "w": 550,
+   "h": 450,
+   "top": 1108
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/10.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1108
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/9.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1108
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/8.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1108
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-15-at-07.50.51.jpeg",
+   "w": 102,
+   "h": 44,
+   "top": 1568
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/10.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1568
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/9.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1568
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/8.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1568
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-15-at-07.50.51.jpeg",
+   "w": 102,
+   "h": 44,
+   "top": 1568
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/10.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1568
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/9.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1568
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/8.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1568
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-15-at-07.50.51.jpeg",
+   "w": 102,
+   "h": 44,
+   "top": 1568
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/10.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1568
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/9.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1568
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/8.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1568
+  }
+ ],
+ "iframes": [
+  "https://app.turitop.com/booking/box/T1657/P24/es?ts=1795562635672&returnUrl=aHR0cHM6Ly90b2tldHVrY2FuYXJpYXMuY29tL2Rlc3BlZGlkYS1kZS1zb2x0ZXJvLw==",
+  "https://maps.google.com/maps?q=Calle%20Fern%C3%A1ndez%20Navarro%2C%20n%207%2C%20Santa%20Cruz%20de%20Tenerife%2C%20Espa%C3%B1a&t=m&z=14&output=embed&iwloc=near"
+ ],
+ "links": [
+  ""
+ ],
+ "text": "Ruta VIP: Despedida de Soltero en Tuk Tuk por Santa Cruz\n\n THE ISLAND TAKEOVER\n\nCelebra el último gran plan de soltero de tu amigo con una experiencia inolvidable, llena de música, copas, risas y los mejores paisajes de Tenerife a bordo de nuestros Tuk Tuks! \n\n El Itinerario del Novio:\n\n17:00 h | ¡Arranca la misión!\n\nNos encontramos en nuestro local de Toke Tuk Canarias (Calle Fernández de Navarro, nº 7). Subimos al Tuk Tuk, música ON desde el primer minuto y empezamos la ruta con ambiente de fiesta estilo Ibiza \n\n17:15 h | Power Stop en la Costa (Parada de 15 – 20 min)\n\nNos dirigimos hacia el Parque Marítimo y el imponente Auditorio de Tenerife junto al Castillo Negro.\n\nEl escenario perfecto para el primer “drop” de la noche: fotos de grupo estilo crew, brindis rápido y energía de festival en uno de los spots más icónicos de la ciudad \n\n18:00 h | Beach Party en Las Teresitas (Parada de 1 hora)\n\nLlegamos a la famosa Playa de Las Teresitas \n\nAquí entra el modo beach club:\n\nMúsica \nCava o cervezas\nAmbiente libre de fiesta y relax\nBaile, risas y energía de grupo\n\n\n\n MOMENTO ESPECIAL: “EL JURAMENTO DEL EQUIPO”\nBrindis conjunto del grupo con una frase o promesa al novio, todos a la vez.\n\n19:30 h | Vistas a la ciudad (Parada de 15 min)\n\nSubimos al Mirador de Ifara \n\nMomento chill con vistas espectaculares de la ciudad:\n\nFotos de grupo con skyline de fondo\nMúsica tipo sunset Ibiza set\n\nPaseo por el corazón de la ciudad – Party Cruise\n\nContinuamos la ruta por:\n\nRambla, Calle Castillo, Centro de Santa Cruz\n\nEl Tuk Tuk se convierte en una discoteca móvil:\n\nMúsica \nCánticos del grupo \nAmbiente de pre-noche total\n\n\n\nFin de fiesta | Noche en La Noria \n\nTerminamos el recorrido en la Calle La Noria, una de las zonas más animadas de Santa Cruz Calle La Noria\n\nAquí os espera:\n\nTapas y bebidas \nAmbiente de bares y fiesta\nContinuación de la noche por libre\nLugar de Salida\nPreguntas más frecuentes\n¿Cuántas personas caben en un Tuktuk?\n¿Cuántos Tuktuk puedo reservar?\n¿Puedo cancelar mi tour?\n¿Puedo cambiar el día y hora de la reserva?\n¿Dónde me recoge y deja mi guía?\n¿Cuántas personas caben en un Tuktuk?\n¿Cuántos Tuktuk puedo reservar?\n¿Puedo cancelar mi tour?\n¿Puedo cambiar el día y hora de la reserva?\n¿Dónde me recoge y deja mi conductor?"
+}

@@ -1,0 +1,29 @@
+{
+ "title": "Gracias por su compra! - Descubre Tenerife en Tuk Tuk - TokeTuk Canarias",
+ "h": 1689,
+ "widgets": {
+  "heading.default": 1,
+  "media-carousel.default": 1,
+  "text-editor.default": 1
+ },
+ "imgs": [
+  {
+   "src": "https://s.w.org/images/core/emoji/17.0.2/svg/1f334.svg",
+   "w": 35,
+   "h": 35
+  }
+ ],
+ "bgs": [
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/10.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 202
+  }
+ ],
+ "iframes": [],
+ "links": [
+  "mailto:info@toketukcanarias.com"
+ ],
+ "text": "¡Gracias por tu reserva! \n\nTu aventura en Tuk Tuk por Canarias está confirmada.\n\nHemos recibido tu reserva correctamente.\nEn breve recibirás un correo electrónico con todos los detalles de tu tour: fecha, hora, punto de encuentro y tu entrada.\n\n Revisa tu bandeja de entrada — y también la carpeta de spam, por si acaso.\n\n¿Tienes alguna pregunta? Estamos aquí para ayudarte:\n\n +34 671 40 37 58\n WhatsApp: +34 671 40 37 58\n info@toketukcanarias.com\n\n¡Nos vemos pronto en el Tuk Tuk! "
+}

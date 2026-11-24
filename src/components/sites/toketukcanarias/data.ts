@@ -7,18 +7,18 @@ export type NavItem = { label: string; href?: string; children?: NavItem[] };
 export const nav: NavItem[] = [
   {
     label: "Tours",
-    href: `${SITE}/tours/`,
+    href: "/tours/",
     children: [
-      { label: "Tenerife", href: `${SITE}/tours-tenerife/` },
-      { label: "Gran Canaria", href: `${SITE}/tours-gran-canaria/` },
+      { label: "Tenerife", href: "/tours-tenerife/" },
+      { label: "Gran Canaria", href: "/tours-gran-canaria/" },
       // "Lanzarote" is shown without a link on the source (coming soon).
       { label: "Lanzarote" },
     ],
   },
   {
     label: "Quienes Somos",
-    href: `${SITE}/quienes-somos/`,
-    children: [{ label: "Colaboraciones especiales", href: `${SITE}/colaboraciones-especiales/` }],
+    href: "/quienes-somos/",
+    children: [{ label: "Colaboraciones especiales", href: "/colaboraciones-especiales/" }],
   },
 ];
 
@@ -36,19 +36,19 @@ export const toursTenerife: Tour[][] = [
       title: "Santa Cruz Exprés",
       text: "Desde la Plaza de España hasta el océano, parques y calles con encanto. Historia, naturaleza y cultura local en un paseo cómodo y panorámico en Tuk Tuk. Ideal para cruceristas y exploradores con poco tiempo.",
       image: `${A}/images/tour-santa-cruz-expres.jpg`,
-      href: `${SITE}/cruz-expres-capital-con-encanto/`,
+      href: "/cruz-expres-capital-con-encanto/",
     },
     {
       title: "Santa Cruz: Cultural y Moderna",
       text: "Explora historia, arte urbano y vistas espectaculares en un cómodo paseo en TukTuk. Incluye miradores, mercado local, arquitectura tradicional y moderna, y rincones llenos de cultura viva. Perfecto para amantes del arte, la historia y la autenticidad canaria.",
       image: `${A}/images/tour-santa-cruz-cultural.jpg`,
-      href: `${SITE}/cruz-cultural-y-moderna/`,
+      href: "/cruz-cultural-y-moderna/",
     },
     {
       title: "Santa Cruz, San Andrés & Las Teresitas",
       text: "Descubre lo mejor de Santa Cruz y su costa en una experiencia completa en TukTuk: ciudad, cultura, miradores y el famoso arenal dorado de Las Teresitas. Ideal para cruceristas con escala larga o viajeros que no quieren perderse nada.",
       image: `${A}/images/tour-santa-cruz-teresitas.jpg`,
-      href: `${SITE}/santa-cruz-esencial-san-andres-teresitas/`,
+      href: "/santa-cruz-esencial-san-andres-teresitas/",
     },
   ],
   [
@@ -56,19 +56,19 @@ export const toursTenerife: Tour[][] = [
       title: "Costa y Miradores",
       text: "Recorre Costa Adeje en 1 hora panorámica: miradores, playas, zonas comerciales y vistas a La Gomera. Ideal para cruceristas, recién llegados y familias que quieren una primera impresión cómoda y completa.",
       image: `${A}/images/tour-costa-miradores.jpg`,
-      href: `${SITE}/sur-de-tenerife-costa-y-miradores/`,
+      href: "/sur-de-tenerife-costa-y-miradores/",
     },
     {
       title: "Historia y Mar",
       text: "Descubre lo mejor del sur de Tenerife: playas, historia local y miradores costeros. Una ruta panorámica y cultural que conecta Costa Adeje, Las Américas y Los Cristianos. Ideal para parejas y grupos curiosos.",
       image: `${A}/images/tour-historia-mar.jpg`,
-      href: `${SITE}/sur-de-tenerife-historia-y-mar/`,
+      href: "/sur-de-tenerife-historia-y-mar/",
     },
     {
       title: "Tenerife Esencial Sur",
       text: "Una ruta completa por el sur de Tenerife: pueblos históricos, paisajes naturales, playas y miradores. Ideal para quienes buscan conocerlo todo sin prisas y sin alquilar coche.",
       image: `${A}/images/tour-esencial-sur.jpg`,
-      href: `${SITE}/sur-de-tenerife-tenerife-esencial-sur/`,
+      href: "/sur-de-tenerife-tenerife-esencial-sur/",
     },
   ],
   [
@@ -76,19 +76,19 @@ export const toursTenerife: Tour[][] = [
       title: "Norte de Tenerife - Puerto de la Cruz Clásico",
       text: "Descubre la esencia de Puerto de la Cruz en este tour exprés por sus rincones más emblemáticos. Desde la Plaza del Charco recorrerás la costa pasando por el Lago Martiánez y el Mirador de San Telmo, con vistas al Atlántico. El recorrido continúa por calles tradicionales y finaliza junto al histórico Jardín Botánico.",
       image: `${A}/images/tour-puerto-clasico.jpg`,
-      href: `${SITE}/norte-de-tenerife-puerto-de-la-cruz-clasico/`,
+      href: "/norte-de-tenerife-puerto-de-la-cruz-clasico/",
     },
     {
       title: "Norte de Tenerife - Puerto y Jardines",
       text: "Descubre el lado más verde y auténtico de Puerto de la Cruz en este tour de 2 horas. Visita el Lago Martiánez, el Mirador de San Telmo y el histórico Jardín Botánico, rodeado de especies tropicales. Disfruta de vistas desde el Mirador de La Paz, zonas de plataneras tradicionales y finaliza junto al Castillo de San Felipe.",
       image: `${A}/images/tour-puerto-jardines.jpg`,
-      href: `${SITE}/norte-de-tenerife-puerto-y-jardines/`,
+      href: "/norte-de-tenerife-puerto-y-jardines/",
     },
     {
       title: "Norte de Tenerife - Puerto + La Orotava Colonial",
       text: "Vive una experiencia completa por el norte de Tenerife en este tour de 3 horas. Recorre Puerto de la Cruz y continúa hacia la histórica La Orotava, con sus calles coloniales, la Casa de los Balcones y los Jardines Victoria. Disfruta de arquitectura canaria, cultura local y vistas panorámicas del valle de La Orotava.",
       image: `${A}/images/tour-puerto-orotava.jpg`,
-      href: `${SITE}/norte-de-tenerife-puerto-la-orotava-colonial/`,
+      href: "/norte-de-tenerife-puerto-la-orotava-colonial/",
     },
   ],
   [
@@ -96,13 +96,13 @@ export const toursTenerife: Tour[][] = [
       title: "Candelaria - Historia, Mar y Cultura",
       text: "Descubre la historia de Candelaria, su Basílica, sus tradiciones y algunos de sus rincones más emblemáticos junto al mar.",
       image: `${A}/images/tour-candelaria.png`,
-      href: `${SITE}/candelaria-en-tuk-tuk-historia-mar-y-cultura-60-min/`,
+      href: "/candelaria-en-tuk-tuk-historia-mar-y-cultura-60-min/",
     },
     {
       title: "Ruta VIP: Despedida de Soltero/a en Tuk Tuk por Santa Cruz (4 horas)",
       text: "Celebra el último gran plan de soltero/a de tu amigo/a con una experiencia inolvidable, llena de música, copas, risas y los mejores paisajes de Tenerife a bordo de nuestros Tuk Tuks! Ver más",
       image: `${A}/images/tour-despedida.jpg`,
-      href: `${SITE}/despedida-de-soltero/`,
+      href: "/despedida-de-soltero/",
     },
   ],
 ];
@@ -113,13 +113,13 @@ export const toursGranCanaria: Tour[][] = [
       title: "Descubre la Costa & Ciudad Moderna de Las Palmas (GC) en Tuk Tuk (1 hora)",
       text: "Descubre Las Palmas de Gran Canaria desde un tuk tuk ecológico: costa atlántica, miradores con vistas únicas y el corazón moderno de la ciudad en una hora de pura aventura urbana.",
       image: `${A}/images/tour-gc-costa.jpg`,
-      href: `${SITE}/ciudad-moderna-las-palmas-gran-canaria/`,
+      href: "/ciudad-moderna-las-palmas-gran-canaria/",
     },
     {
       title: "Descubre la Historia y Miradores de Las Palmas (GC) en Tuk Tuk (90 min.)",
       text: "Viaja en tuk tuk por el corazón histórico de Las Palmas de Gran Canaria: barrios con siglos de historia, catedrales, museos y miradores con vistas panorámicas que te dejarán sin palabras.",
       image: `${A}/images/tour-gc-historia.jpg`,
-      href: `${SITE}/historia-miradores-las-palmas-tuk-tuk/`,
+      href: "/historia-miradores-las-palmas-tuk-tuk/",
     },
   ],
 ];
@@ -177,8 +177,8 @@ export const OFFICE_MAPS_URL =
   "https://www.google.com/maps/place/C.+de+Fern%C3%A1ndez+Navarro,+7,+38003+Santa+Cruz+de+Tenerife,+Spain/@28.462465,-16.253288,15z/data=!4m6!3m5!1s0xc41cc9d4946b635:0xb7b1b31b0d6b70c4!8m2!3d28.4624654!4d-16.253288!16s%2Fg%2F11c4vxt19c?hl=en-GB&entry=ttu&g_ep=EgoyMDI2MDkxNC4wIKXMDSoASAFQAw%3D%3D";
 
 export const legalLinks = [
-  { label: "Política de privacidad", href: `${SITE}/politica-de-privacidad/` },
-  { label: "Aviso legal", href: `${SITE}/aviso-legal/` },
-  { label: "Política de cookies", href: `${SITE}/politica-de-cookies/` },
-  { label: "Condiciones Generales de Contratación (CGC)", href: `${SITE}/condiciones-generales-de-contratacion-cgc/` },
+  { label: "Política de privacidad", href: "/politica-de-privacidad/" },
+  { label: "Aviso legal", href: "/aviso-legal/" },
+  { label: "Política de cookies", href: "/politica-de-cookies/" },
+  { label: "Condiciones Generales de Contratación (CGC)", href: "/condiciones-generales-de-contratacion-cgc/" },
 ];

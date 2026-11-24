@@ -1,19 +1,16 @@
 import Image from "next/image";
-import "./toketuk.css";
+import Link from "next/link";
 import { Carousel } from "./Carousel";
 import { Faq } from "./Faq";
-import { FooterMenu } from "./FooterMenu";
-import { Header } from "./Header";
+import { SiteShell } from "./SiteShell";
 import { Highlight } from "./Highlight";
 import { Icon } from "./Icon";
 import {
   A,
   GOOGLE_REVIEWS_URL,
   OFFICE_MAPS_URL,
-  SITE,
   gallery,
   googleReviews,
-  legalLinks,
   steps,
   testimonials,
   toursGranCanaria,
@@ -24,7 +21,7 @@ import {
 
 function TourCard({ tour }: { tour: Tour }) {
   return (
-    <a className="tk-card" href={tour.href}>
+    <Link className="tk-card" href={tour.href}>
       <div className="tk-card__img">
         <Image src={tour.image} alt="" fill sizes="(max-width: 767px) 100vw, 650px" />
       </div>
@@ -33,7 +30,7 @@ function TourCard({ tour }: { tour: Tour }) {
         <div className="tk-card__text">{tour.text}</div>
         <span className="tk-card__btn">Ver más</span>
       </div>
-    </a>
+    </Link>
   );
 }
 
@@ -64,10 +61,9 @@ function Stars() {
 
 export function HomePage() {
   return (
-    <div className="tk">
-      <Header />
+    <SiteShell>
 
-      <main>
+      <>
         {/* Hero */}
         <section className="tk-banner tk-banner--hero">
           <div className="tk-banner__inner">
@@ -79,10 +75,10 @@ export function HomePage() {
                 Súbete a uno de nuestros tuk tuks y descubre los rincones con más encanto, secretos escondidos y
                 monumentos.
               </h4>
-              <a className="tk-grad-btn" href={`${SITE}/tours/`}>
+              <Link className="tk-grad-btn" href="/tours/">
                 <Icon name="mapPin" />
                 Ver tours
-              </a>
+              </Link>
             </div>
           </div>
         </section>
@@ -269,52 +265,8 @@ export function HomePage() {
             </div>
           </div>
         </section>
-      </main>
+      </>
 
-      <footer>
-        <section className="tk-split">
-          <div className="tk-split__text">
-            <h6 className="tk-split__eyebrow">
-              Descubre Tenerife &amp; GRAN CANARIA <span aria-hidden="true">🌴</span>
-            </h6>
-            <h3 className="tk-split__title">Las islas canarias - con mil paisajes y un alma única.</h3>
-            <a className="tk-split__link" href={`${SITE}/tours/`}>
-              Reservar Online ⟶
-            </a>
-          </div>
-          <div className="tk-split__img" role="img" aria-label="Flota de tuk tuks eléctricos" />
-        </section>
-
-        <div className="tk-footer">
-          <a className="tk-footer__logo" href={SITE} aria-label="Toke Tuk Canarias">
-            <Image src={`${A}/images/logo.png`} alt="" width={675} height={225} />
-          </a>
-          <div>
-            <h4>Contacto</h4>
-            <p className="tk-footer__text">
-              Calle Bethencourt y Molina 1. Centro Comercial Nuestra Señora de Africa Local 57 38003 S/C de Tenerife –
-              ESPAÑA
-              <br />
-              Teléfono: <a href="tel:+34671403758">+34 671 40 37 58</a>
-            </p>
-          </div>
-          <div>
-            <h4>toke tuk canarias</h4>
-            <FooterMenu />
-          </div>
-          <div>
-            <h4>Legal</h4>
-            <ul className="tk-footer__links">
-              {legalLinks.map((l) => (
-                <li key={l.href}>
-                  <a href={l.href}>{l.label}</a>
-                </li>
-              ))}
-            </ul>
-          </div>
-        </div>
-        <div className="tk-footer__bottom">Toke Tuk Canarias © 2026 – Todos los derechos reservados</div>
-      </footer>
-    </div>
+    </SiteShell>
   );
 }

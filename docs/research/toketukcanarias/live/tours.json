@@ -1,0 +1,36 @@
+{
+ "title": "Tours - Descubre Tenerife en Tuk Tuk - TokeTuk Canarias",
+ "h": 1645,
+ "widgets": {
+  "heading.default": 2,
+  "call-to-action.default": 3
+ },
+ "imgs": [],
+ "bgs": [
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/33-1024x683.jpg",
+   "w": 317,
+   "h": 200,
+   "top": 322
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/62-1024x683.jpg",
+   "w": 317,
+   "h": 200,
+   "top": 322
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/10/tourArre5-768x1024.png",
+   "w": 317,
+   "h": 200,
+   "top": 322
+  }
+ ],
+ "iframes": [],
+ "links": [
+  "https://toketukcanarias.com/tours-tenerife/",
+  "https://toketukcanarias.com/tours-gran-canaria/",
+  "https://toketukcanarias.com/tours-lanzarote/"
+ ],
+ "text": "Tours\nDescubre las islas canarias!\nTenerife\nVer más\nGran Canaria\nVer más\nLanzarote\nVer más"
+}

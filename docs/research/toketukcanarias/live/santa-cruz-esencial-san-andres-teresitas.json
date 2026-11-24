@@ -1,0 +1,275 @@
+{
+ "title": "Santa Cruz Esencial + San Andrés & Teresitas - Descubre Tenerife en Tuk Tuk - TokeTuk Canarias",
+ "h": 3376,
+ "widgets": {
+  "html.default": 1,
+  "heading.default": 3,
+  "text-editor.default": 2,
+  "media-carousel.default": 1,
+  "google_maps.default": 1,
+  "toggle.default": 1
+ },
+ "imgs": [],
+ "bgs": [
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/10.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/9.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/8.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/14.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/13.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/12.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/11.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/10.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/9.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/8.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/14.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/13.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/12.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/11.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/10.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/9.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/8.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/14.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/13.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/12.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/11.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/10.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/9.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/8.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/14.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/13.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/12.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/11.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/10.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/9.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/8.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/14.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/13.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/12.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/11.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/10.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/9.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/8.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/14.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/13.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/12.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/11.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  }
+ ],
+ "iframes": [
+  "https://app.turitop.com/booking/box/T1657/P3/es?ts=1795562652705&returnUrl=aHR0cHM6Ly90b2tldHVrY2FuYXJpYXMuY29tL3NhbnRhLWNydXotZXNlbmNpYWwtc2FuLWFuZHJlcy10ZXJlc2l0YXMv",
+  "https://maps.google.com/maps?q=Calle%20Fern%C3%A1ndez%20Navarro%2C%20n%207%2C%20Santa%20Cruz%20de%20Tenerife%2C%20Espa%C3%B1a&t=m&z=14&output=embed&iwloc=near"
+ ],
+ "links": [
+  ""
+ ],
+ "text": "Santa Cruz, San Andrés & Las Teresitas\n\nEste recorrido completo combina lo mejor de Santa Cruz con la belleza costera del pueblo marinero de San Andrés y la icónica playa de Las Teresitas. Es una experiencia ideal para quienes disponen de más tiempo y desean conocer tanto la ciudad como su entorno natural.\n\nEl itinerario incluye lo más destacado del tour de 2 horas en versión abreviada, añadiendo después una ruta panorámica que bordea la costa hacia San Andrés, con espectaculares vistas del litoral, el puerto y el horizonte atlántico.\n\nRealizaremos una parada en el Mirador de Las Teresitas, perfecto para tomar la foto imprescindible del arenal dorado y del paisaje volcánico de Anaga. A continuación, pasearemos por el encantador pueblo de San Andrés, con sus casas típicas, calles peatonales, su iglesia histórica y un ambiente marinero auténtico.\n\nEn la Playa de Las Teresitas conoceremos su curiosa historia: un arenal artificial creado con arena traída del Sáhara, que hoy se ha convertido en uno de los lugares más visitados de Tenerife.\n\nSi el tráfico lo permite, el regreso será por Valleseco, ofreciendo vistas únicas de la costa norte de Santa Cruz y del proyecto de recuperación del litoral. El tour finaliza en el Auditorio de Tenerife o en la Plaza de España, según prefiera el grupo.\n\nEste tour es perfecto para cruceristas con escalas largas, visitantes alojados en la isla o cualquier persona que quiera disfrutar de un recorrido variado que mezcla cultura, historia y mar.\n\n Punto de Salida: Calle de Fernández Navarro 7, 38003 Santa Cruz de Tenerife\n\nLugar de Salida\nPreguntas más frecuentes\n¿Cuántas personas caben en un Tuktuk?\n¿Cuántos Tuktuk puedo reservar?\n¿Puedo cancelar mi tour?\n¿Puedo cambiar el día y hora de la reserva?\n¿Dónde me recoge y deja mi conductor?"
+}

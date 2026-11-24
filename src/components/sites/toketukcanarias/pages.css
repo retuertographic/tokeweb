@@ -1,0 +1,692 @@
+/* Inner-page templates for the toketukcanarias.com clone. Scoped under .tk */
+
+.tk-page {
+  padding-top: 20px;
+}
+.tk-page--listing,
+.tk-page--about,
+.tk-page--collab {
+  padding-top: 40px;
+}
+
+/* Rich text extracted from Elementor text-editor widgets */
+.tk-rich {
+  display: flow-root;
+  font-family: var(--tk-manrope);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #000;
+}
+.tk-rich p,
+.tk-rich ul,
+.tk-rich ol {
+  margin: 0 0 14.4px;
+}
+.tk-rich ul,
+.tk-rich ol {
+  padding-left: 40px;
+  list-style: disc;
+}
+.tk-rich ol {
+  list-style: decimal;
+}
+.tk-rich h2,
+.tk-rich h3,
+.tk-rich h4 {
+  margin: 8px 0 16px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+.tk-rich h2 {
+  font-size: 32px;
+}
+.tk-rich h3 {
+  font-size: 28px;
+}
+.tk-rich h4 {
+  font-size: 24px;
+}
+.tk-rich strong {
+  font-weight: 700;
+}
+.tk-rich a {
+  color: #c36;
+}
+.tk-rich hr {
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.25);
+  margin: 0 0 14.4px;
+}
+.tk-rich table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 14.4px;
+}
+.tk-rich td,
+.tk-rich th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  vertical-align: top;
+}
+
+/* ---------- Tour detail ---------- */
+.tk-booking {
+  max-width: 1160px;
+  margin: 0 auto;
+  padding: 10px 10px;
+  min-height: 516px;
+}
+.tk-booking iframe {
+  display: block;
+  width: 100%;
+  border: 0;
+}
+.tk-gray {
+  background: #f8f8f8;
+  padding: 50px 40px;
+}
+.tk-gray__inner {
+  max-width: 1290px;
+  margin: 0 auto;
+}
+.tk-h2-bold {
+  font-family: var(--tk-manrope);
+  font-size: 35px;
+  font-weight: 700;
+  line-height: 36.75px;
+  letter-spacing: -1.5px;
+  color: #000;
+  text-align: center;
+}
+.tk-tour__intro {
+  margin-top: 20px;
+}
+.tk-tour__grid {
+  max-width: 1160px;
+  margin: 20px auto 0;
+  padding: 10px 20px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+.tk-tour__grid > .tk-rich {
+  padding: 10px;
+}
+.tk-tour__map-title {
+  margin-top: 10px;
+}
+.tk-map {
+  margin-top: 19px;
+  display: block;
+  width: 100%;
+  height: 300px;
+  border: 0;
+}
+.tk-faq--tour .tk-faq__box {
+  max-width: 1275px;
+  margin-left: 0;
+  border-color: #59e893;
+}
+.tk-faq--tour .tk-faq__item {
+  border-bottom: 2px solid rgba(0, 0, 0, 0.06);
+}
+.tk-faq__a .tk-rich p {
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 27px;
+  color: #2e2e2e;
+  padding: 1px 0 9px;
+}
+.tk-gray .tk-faq__box + .tk-h2-bold,
+.tk-faq__box + .tk-faq__box {
+  margin-top: 30px;
+}
+
+/* Slideshow + thumbnails */
+.tk-slideshow__main {
+  position: relative;
+  height: 450px;
+  overflow: hidden;
+}
+.tk-slideshow__track {
+  display: flex;
+  height: 100%;
+  transition: transform 0.5s ease;
+}
+.tk-slideshow__slide {
+  position: relative;
+  flex: 0 0 100%;
+  height: 100%;
+}
+.tk-slideshow__slide img,
+.tk-slideshow__thumb img {
+  object-fit: cover;
+}
+.tk-slideshow__main .tk-carousel__arrow {
+  color: #fff;
+}
+.tk-slideshow__thumbs {
+  margin-top: 10px;
+  overflow: hidden;
+}
+.tk-slideshow__strip {
+  display: flex;
+  gap: 10px;
+  transition: transform 0.5s ease;
+}
+.tk-slideshow__thumb {
+  position: relative;
+  flex: 0 0 calc((100% - 40px) / 5);
+  aspect-ratio: 21 / 9;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+  opacity: 0.6;
+  transition: opacity 0.3s;
+  background: #ddd;
+}
+.tk-slideshow__thumb.is-active,
+.tk-slideshow__thumb:hover {
+  opacity: 1;
+}
+
+/* ---------- Listing pages ---------- */
+.tk-listing {
+  max-width: 1032px;
+  margin: 0 auto;
+  padding: 10px 0 0;
+}
+.tk-listing__title {
+  font-family: var(--tk-manrope);
+  font-size: 60px;
+  font-weight: 400;
+  line-height: 60px;
+  text-align: center;
+  color: #000;
+}
+.tk-listing__sub {
+  margin-top: 55px;
+  font-family: var(--tk-manrope);
+  font-size: 37px;
+  font-weight: 400;
+  line-height: 37px;
+  text-align: center;
+  color: #000;
+}
+.tk-listing__sub:not(:first-of-type) {
+  margin-top: 55px;
+}
+.tk-listing__grid {
+  margin-top: 20px;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 20px;
+}
+.tk-lcard {
+  width: 317px;
+}
+.tk-listing__grid--1 .tk-lcard {
+  width: 480px;
+}
+.tk-listing__grid--2 .tk-lcard {
+  width: 476px;
+}
+.tk-lcard {
+  display: flex;
+  flex-direction: column;
+  transition: 0.3s;
+}
+.tk-lcard__img {
+  position: relative;
+  height: 200px;
+  overflow: hidden;
+}
+.tk-lcard__img img {
+  object-fit: cover;
+  transition: transform 1.5s;
+}
+.tk-lcard:hover .tk-lcard__img img {
+  transform: scale(1.1);
+}
+.tk-lcard__body {
+  background: var(--tk-card);
+  padding: 35px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.tk-lcard__title {
+  font-family: var(--tk-manrope);
+  font-size: 23px;
+  font-weight: 600;
+  line-height: 27.6px;
+  color: var(--tk-card-text);
+  margin-bottom: 15px;
+}
+.tk-lcard__text {
+  font-family: var(--tk-roboto);
+  font-size: 16px;
+  line-height: 24px;
+  color: var(--tk-card-text);
+  margin-bottom: 15px;
+}
+.tk-lcard__btn {
+  display: inline-block;
+  padding: 12px 24px;
+  border: 2px solid var(--tk-card-text);
+  border-radius: 3px;
+  font-family: var(--tk-roboto);
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 15px;
+  color: var(--tk-card-text);
+  transition: 0.3s;
+}
+.tk-lcard:hover .tk-lcard__btn {
+  background: var(--tk-card-text);
+  color: #fff;
+}
+.tk-listing-reviews {
+  margin-top: 10px;
+  background: #fafafa;
+  padding: 50px 40px 65px;
+}
+.tk-listing-reviews .tk-testimonials {
+  max-width: 1181px;
+  margin-top: 0;
+}
+
+/* ---------- Legal ---------- */
+.tk-legal {
+  padding: 10px 10px 10px 250px;
+  max-width: 1400px;
+}
+.tk-legal__title {
+  font-family: var(--tk-manrope);
+  font-size: 32px;
+  font-weight: 800;
+  line-height: 32px;
+  color: #000;
+  margin-bottom: 20px;
+}
+.tk-legal .tk-rich {
+  max-width: 1140px;
+  padding-bottom: 60px;
+}
+
+/* ---------- Quiénes somos / colaboraciones ---------- */
+.tk-about-page {
+  max-width: 1160px;
+  margin: 0 auto;
+  padding: 10px 10px 0;
+}
+.tk-about-page__title {
+  font-family: var(--tk-manrope);
+  font-size: 65px;
+  font-weight: 400;
+  line-height: 65px;
+  text-align: center;
+  color: #000;
+  margin-bottom: 80px;
+}
+.tk-about-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  align-items: center;
+  margin-bottom: 70px;
+}
+.tk-about-row:last-child {
+  margin-bottom: 0;
+}
+.tk-about-row > * {
+  padding: 10px;
+}
+.tk-about-row__img {
+  line-height: 0;
+}
+.tk-about-row__img img {
+  width: 100%;
+  height: auto;
+  border-radius: 20px;
+}
+.tk-about-row h2 {
+  font-family: var(--tk-manrope);
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 30px;
+  color: #000;
+  margin-bottom: 20px;
+}
+.tk-about-row .tk-rich,
+.tk-collab .tk-rich {
+  font-size: 20px;
+  line-height: 30px;
+}
+.tk-collab {
+  max-width: 1160px;
+  margin: 0 auto;
+  padding: 10px 10px 0;
+  display: grid;
+  grid-template-columns: 560px 336px;
+  gap: 20px;
+}
+.tk-collab > * {
+  padding: 10px;
+}
+.tk-collab h2 {
+  font-family: var(--tk-manrope);
+  font-size: 46px;
+  font-weight: 700;
+  line-height: 46px;
+  color: #000;
+  margin-bottom: 20px;
+  max-width: 330px;
+}
+.tk-collab__side {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+.tk-collab__side img {
+  width: 316px;
+  height: auto;
+}
+.tk-teal-btn {
+  display: inline-block;
+  padding: 12px 24px;
+  border-radius: 3px;
+  background: var(--tk-teal);
+  color: #fff;
+  font-family: var(--tk-roboto);
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 15px;
+}
+
+/* ---------- Gracias ---------- */
+.tk-thanks {
+  background: #f8f8f8;
+  padding: 25px 40px 50px;
+  margin-bottom: 20px;
+}
+.tk-thanks .tk-tour__grid {
+  margin-top: 20px;
+}
+
+/* ---------- Próximamente ---------- */
+.tk-soon {
+  max-width: 1160px;
+  margin: 0 auto;
+  padding: 30px 10px 10px;
+  text-align: center;
+}
+.tk-soon h2 {
+  font-family: var(--tk-roboto);
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 32px;
+  color: #000;
+  margin-bottom: 20px;
+}
+.tk-soon img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* ---------- Blog ---------- */
+.tk-blog__head {
+  padding: 50px 20px 20px;
+}
+.tk-blog__head h1 {
+  font-family: var(--tk-manrope);
+  font-size: 50px;
+  font-weight: 300;
+  line-height: 60px;
+  letter-spacing: 6px;
+  text-transform: uppercase;
+  color: #1e1e1e;
+}
+.tk-blog__hero {
+  margin: 0 20px 20px;
+}
+.tk-blog__hero div {
+  position: relative;
+  height: 493px;
+  background-size: cover;
+  background-position: center;
+}
+.tk-blog__list {
+  padding: 40px 20px 150px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px 0;
+}
+.tk-post-card {
+  background: #f5f2f0;
+  text-align: center;
+}
+.tk-post-card__img {
+  position: relative;
+  display: block;
+  aspect-ratio: 3 / 2;
+  overflow: hidden;
+}
+.tk-post-card__img img {
+  object-fit: cover;
+}
+.tk-post-card__body {
+  padding: 30px 15px 25px;
+}
+.tk-post-card h3 {
+  font-family: var(--tk-manrope);
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 26px;
+  letter-spacing: 0.1px;
+  color: #1e1e1e;
+  margin-bottom: 15px;
+}
+.tk-post-card__meta {
+  font-family: var(--tk-manrope);
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #888;
+  margin-bottom: 15px;
+}
+.tk-post-card p {
+  font-family: var(--tk-manrope);
+  font-size: 14px;
+  line-height: 21px;
+  color: #252525;
+}
+.tk-post-card__more {
+  display: inline-block;
+  margin-top: 17px;
+  font-family: var(--tk-manrope);
+  font-size: 20px;
+  letter-spacing: 1px;
+  color: #1e1e1e;
+}
+
+/* ---------- Blog post ---------- */
+.tk-post__banner {
+  position: relative;
+  height: 250px;
+  background-color: #000;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 58px;
+  margin-top: -20px;
+}
+.tk-post__banner h1 {
+  max-width: 830px;
+  font-family: var(--tk-manrope);
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 44px;
+  text-transform: capitalize;
+  text-align: center;
+  color: #fff;
+}
+.tk-post__body {
+  max-width: 1200px;
+  margin: 50px auto 0;
+  display: grid;
+  grid-template-columns: 744px 1fr;
+  gap: 60px;
+  padding-bottom: 180px;
+}
+.tk-post__meta {
+  display: flex;
+  gap: 25px;
+  font-family: var(--tk-manrope);
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 24px;
+  text-transform: capitalize;
+  color: #333;
+}
+.tk-post__meta span + span::before {
+  content: "•";
+  margin-right: 25px;
+}
+.tk-post__img {
+  position: relative;
+  margin-top: 70px;
+  aspect-ratio: 3 / 2;
+  border-radius: 20px;
+  overflow: hidden;
+}
+.tk-post__img img {
+  object-fit: cover;
+}
+.tk-post__content {
+  margin-top: 70px;
+  color: #4a4a4a;
+}
+.tk-post__side h2 {
+  margin-top: 10px;
+  font-family: var(--tk-manrope);
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 18px;
+  text-transform: uppercase;
+  color: #000;
+}
+.tk-post__side ul {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0 0;
+  font-family: var(--tk-manrope);
+}
+
+/* ---------- Mobile ---------- */
+@media (max-width: 1024px) {
+  .tk-legal {
+    padding-left: 40px;
+  }
+  .tk-post__body {
+    grid-template-columns: 1fr;
+    padding: 0 20px 60px;
+  }
+  .tk-collab {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+@media (max-width: 767px) {
+  .tk-booking {
+    min-height: 0;
+  }
+  .tk-gray {
+    padding: 30px 20px 60px;
+  }
+  .tk-h2-bold {
+    font-size: 32px;
+    line-height: 33.6px;
+  }
+  .tk-tour__grid,
+  .tk-about-row,
+  .tk-collab {
+    grid-template-columns: 1fr;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .tk-slideshow__main {
+    height: 450px;
+  }
+  .tk-faq--tour .tk-faq__box {
+    padding: 20px;
+  }
+  .tk-listing__title,
+  .tk-about-page__title {
+    font-size: 35px;
+    line-height: 35px;
+  }
+  .tk-about-page__title {
+    margin-bottom: 30px;
+  }
+  .tk-listing__sub {
+    font-size: 30px;
+    line-height: 30px;
+    margin-top: 55px;
+  }
+  .tk-listing__grid {
+    padding: 20px 10px;
+  }
+  .tk-lcard {
+    width: 100%;
+  }
+  .tk-listing-reviews {
+    padding: 0 20px 60px;
+  }
+  .tk-legal {
+    padding: 10px 20px;
+  }
+  .tk-about-row {
+    margin-bottom: 40px;
+  }
+  .tk-about-row h2 {
+    font-size: 20px;
+    line-height: 20px;
+  }
+  .tk-about-row .tk-rich,
+  .tk-collab .tk-rich {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .tk-collab h2 {
+    font-size: 32px;
+    line-height: 34px;
+  }
+  .tk-thanks {
+    padding: 15px 20px 40px;
+  }
+  .tk-blog__head h1 {
+    font-size: 32px;
+    line-height: 40px;
+  }
+  .tk-blog__hero div {
+    height: 220px;
+  }
+  .tk-blog__list {
+    grid-template-columns: 1fr;
+    padding-bottom: 60px;
+  }
+  .tk-post__banner h1 {
+    font-size: 22px;
+    line-height: 26px;
+  }
+}

@@ -1,0 +1,167 @@
+{
+ "title": "Ruta VIP: Despedida de Soltera en Tuk Tuk por el Sur de Tenerife - Descubre Tenerife en Tuk Tuk - TokeTuk Canarias",
+ "h": 3171,
+ "widgets": {
+  "html.default": 1,
+  "heading.default": 3,
+  "text-editor.default": 2,
+  "media-carousel.default": 1,
+  "google_maps.default": 1,
+  "toggle.default": 1
+ },
+ "imgs": [],
+ "bgs": [
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-14-at-10.46.19-1.jpeg",
+   "w": 550,
+   "h": 450,
+   "top": 795
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-15-at-07.50.51.jpeg",
+   "w": 550,
+   "h": 450,
+   "top": 795
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/35.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 795
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/10.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 795
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-14-at-10.46.19-1.jpeg",
+   "w": 550,
+   "h": 450,
+   "top": 795
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-15-at-07.50.51.jpeg",
+   "w": 550,
+   "h": 450,
+   "top": 795
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/35.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 795
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/10.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 795
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-14-at-10.46.19-1.jpeg",
+   "w": 550,
+   "h": 450,
+   "top": 795
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-15-at-07.50.51.jpeg",
+   "w": 550,
+   "h": 450,
+   "top": 795
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/35.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 795
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/10.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 795
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-14-at-10.46.19-1.jpeg",
+   "w": 102,
+   "h": 44,
+   "top": 1255
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-15-at-07.50.51.jpeg",
+   "w": 102,
+   "h": 44,
+   "top": 1255
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/35.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1255
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/10.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1255
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-14-at-10.46.19-1.jpeg",
+   "w": 102,
+   "h": 44,
+   "top": 1255
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-15-at-07.50.51.jpeg",
+   "w": 102,
+   "h": 44,
+   "top": 1255
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/35.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1255
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/10.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1255
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-14-at-10.46.19-1.jpeg",
+   "w": 102,
+   "h": 44,
+   "top": 1255
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-15-at-07.50.51.jpeg",
+   "w": 102,
+   "h": 44,
+   "top": 1255
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/35.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1255
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/10.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1255
+  }
+ ],
+ "iframes": [
+  "https://app.turitop.com/booking/box/T1657/P116/es?ts=1795562624170&returnUrl=aHR0cHM6Ly90b2tldHVrY2FuYXJpYXMuY29tL3J1dGEtdmlwLWRlc3BlZGlkYS1kZS1zb2x0ZXJhLWVuLXR1ay10dWstcG9yLWVsLXN1ci1kZS10ZW5lcmlmZS8=",
+  "https://maps.google.com/maps?q=Edif.Simon%2C%20Av.%20Juan%20Carlos%20I%2C%2038650%20Playa%20de%20las%20Am%C3%A9ricas%2C%20Santa%20Cruz%20de%20Tenerife%2C%20Spanien&t=m&z=14&output=embed&iwloc=near"
+ ],
+ "links": [
+  ""
+ ],
+ "text": "Ruta VIP: Despedida de soltera & soltero en el Sur de Tenerife\n\nLa despedida de solter@ que recordaréis para siempre comienza a las 17:00 en Los Cristianos. Subid a bordo de nuestro tuk tuk y preparaos para vivir el sur de Tenerife de una forma completamente diferente: con música, risas y las mejores fotos del viaje.\n\nDurante la primera hora recorreréis los rincones más icónicos del sur de la isla: Los Cristianos, Las Américas y Costa Adeje, con paradas para capturar los mejores momentos y animar la party desde el propio tuk tuk. Porque aquí el viaje ya es parte de la fiesta. A continuación, subís al exclusivo Hades Lounge, una terraza bar con vistas panorámicas a todo el sur de Tenerife. Allí os espera una botella de cava incluida – según el número de participantes – para brindar por la novia o el novio, jugar a los juegos clásicos de despedida y disfrutar del atardecer con el Atlántico de fondo. Una hora de puro disfrute en uno de los rincones más especiales de la isla. Para cerrar la noche con sabor, el tuk tuk os lleva hasta Casa Playa, donde os espera un picoteo y una copa incluidos, con los pies casi en la arena y el ambiente perfecto para seguir celebrando. El resto de consumo corre por cuenta de cada uno, ¡que la noche es larga! En total, una experiencia de 3 a 3,5 horas pensada para que la futura novia o novio viva una despedida única, diferente y llena de momentos inolvidables en el paraíso del sur de Tenerife.\n\nLugar de Salida\nPreguntas más frecuentes\n¿Cuántas personas caben en un Tuktuk?\n¿Cuántos Tuktuk puedo reservar?\n¿Puedo cancelar mi tour?\n¿Puedo cambiar el día y hora de la reserva?\n¿Dónde me recoge y deja mi guía?"
+}

@@ -1,8 +1,9 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
   output: "standalone",
+  // Match the WordPress source, whose pages all live at "/slug/".
+  trailingSlash: true,
 };
 
 export default nextConfig;

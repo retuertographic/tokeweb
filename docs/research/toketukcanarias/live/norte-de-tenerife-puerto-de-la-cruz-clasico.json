@@ -1,0 +1,200 @@
+{
+ "title": "Norte de Tenerife - Puerto de la Cruz Clásico - Descubre Tenerife en Tuk Tuk - TokeTuk Canarias",
+ "h": 2774,
+ "widgets": {
+  "html.default": 1,
+  "heading.default": 2,
+  "text-editor.default": 2,
+  "media-carousel.default": 1,
+  "google_maps.default": 1
+ },
+ "imgs": [],
+ "bgs": [
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/33.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 857
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/34.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 857
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/35.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 857
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/36.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 857
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/38.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 857
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/33.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 857
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/34.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 857
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/35.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 857
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/36.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 857
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/38.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 857
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/33.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 857
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/34.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 857
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/35.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 857
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/36.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 857
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/38.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 857
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/33.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1317
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/34.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1317
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/35.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1317
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/36.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1317
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/38.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1317
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/33.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1317
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/34.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1317
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/35.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1317
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/36.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1317
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/38.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1317
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/33.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1317
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/34.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1317
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/35.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1317
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/36.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1317
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/38.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1317
+  }
+ ],
+ "iframes": [
+  "https://app.turitop.com/booking/box/T1657/P7/es?ts=1795562642419&returnUrl=aHR0cHM6Ly90b2tldHVrY2FuYXJpYXMuY29tL25vcnRlLWRlLXRlbmVyaWZlLXB1ZXJ0by1kZS1sYS1jcnV6LWNsYXNpY28v",
+  "https://maps.google.com/maps?q=Centro%20Comercial%20La%20Pir%C3%A1mide%20Puerto%20de%20la%20Cruz&t=m&z=14&output=embed&iwloc=near"
+ ],
+ "links": [],
+ "text": "Norte de Tenerife - Puerto de la Cruz Clásico\n\nEste tour exprés es perfecto para quienes tienen poco tiempo y quieren descubrir la esencia de Puerto de la Cruz de forma rápida, relajada y sin esfuerzo.\n\nPartimos desde la animada Plaza del Charco, el corazón social de la ciudad, y seguimos con un paseo panorámico por la costa, pasando por el Lago Martiánez, una obra icónica del artista César Manrique que combina arquitectura, arte y naturaleza.\n\nRealizamos una breve parada en el Mirador de San Telmo, uno de los puntos más fotogénicos del norte de la isla, con vistas espectaculares al Atlántico.\n\nA continuación, nos adentramos por la calle La Hoya y otras zonas peatonales llenas de vida, arquitectura tradicional y comercios locales.\n\nEl recorrido finaliza con una explicación exterior del famoso Jardín Botánico de Puerto de la Cruz, uno de los más antiguos de Europa, ideal para entender la conexión de la ciudad con la biodiversidad y el mundo vegetal.\n\n Punto de Salida: Centro Comercial Martiánez, Av. Aguilar y Quesada, 1A, 38400 Puerto de la Cruz; En el interior del Parking, Planta -1\n\nLugar de Salida"
+}

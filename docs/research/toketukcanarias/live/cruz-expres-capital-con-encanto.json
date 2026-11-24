@@ -1,0 +1,275 @@
+{
+ "title": "Santa Cruz Exprés: Capital con Encanto - Descubre Tenerife en Tuk Tuk - TokeTuk Canarias",
+ "h": 3411,
+ "widgets": {
+  "html.default": 1,
+  "heading.default": 3,
+  "text-editor.default": 2,
+  "media-carousel.default": 1,
+  "google_maps.default": 1,
+  "toggle.default": 1
+ },
+ "imgs": [],
+ "bgs": [
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/10.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/9.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/8.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/14.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/13.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/12.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/11.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/10.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/9.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/8.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/14.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/13.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/12.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/11.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/10.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/9.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/8.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/14.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/13.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/12.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/11.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 955
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/10.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/9.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/8.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/14.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/13.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/12.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/11.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/10.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/9.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/8.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/14.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/13.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/12.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/11.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/10.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/9.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/8.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/14.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/13.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/12.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/11.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1415
+  }
+ ],
+ "iframes": [
+  "https://app.turitop.com/booking/box/T1657/P1/es?ts=1795562657762&returnUrl=aHR0cHM6Ly90b2tldHVrY2FuYXJpYXMuY29tL2NydXotZXhwcmVzLWNhcGl0YWwtY29uLWVuY2FudG8v",
+  "https://maps.google.com/maps?q=Calle%20Fern%C3%A1ndez%20Navarro%2C%20n%207%2C%20Santa%20Cruz%20de%20Tenerife%2C%20Espa%C3%B1a&t=m&z=14&output=embed&iwloc=near"
+ ],
+ "links": [
+  ""
+ ],
+ "text": "Santa Cruz Exprés: Capital con Encanto\n\nEste recorrido exprés está pensado para quienes desean descubrir lo más esencial de Santa Cruz en poco tiempo, disfrutando de una experiencia única y cómoda a bordo de un tuk tuk privado. Durante una hora recorreremos los rincones más emblemáticos de la capital tinerfeña, combinando mar, historia, arquitectura y vida local.\n\nLa experiencia comienza en la Plaza de España, punto de encuentro y corazón de la ciudad, donde conoceremos su historia y la transformación urbana de este espacio. Continuaremos por la Avenida Marítima, disfrutando de las vistas panorámicas hacia el puerto y el frente marítimo moderno.\n\nRealizaremos una parada en el Auditorio de Tenerife, símbolo arquitectónico de la isla, y en el Castillo de San Juan (Castillo Negro), fortificación histórica de defensa costera. El recorrido prosigue de manera pausada por el Parque Marítimo César Manrique, un espacio diseñado para el ocio junto al mar con palmeras, piscinas y zonas abiertas.\n\nSubiremos hacia La Salle y la Rambla de Santa Cruz, una zona residencial señorial llena de cultura y tradición, para llegar al Parque García Sanabria, auténtico pulmón verde de la ciudad con un precioso jardín botánico urbano.\n\nFinalmente, regresaremos al centro recorriendo la Calle del Pilar y la Calle Castillo, el área comercial más vibrante de Santa Cruz, donde se mezclan tiendas, arquitectura tradicional y la vida cotidiana de los habitantes locales. El tour finaliza nuevamente en la Plaza de España, con una cálida despedida.\n\nEste tour es ideal para cruceristas o visitantes con tiempo limitado, ya que ofrece una panorámica completa de la ciudad en solo una hora.\n\n Punto de Salida: Calle de Fernández Navarro 7, 38003 Santa Cruz de Tenerife\n\nLugar de Salida\nPreguntas más frecuentes\n¿Cuántas personas caben en un Tuktuk?\n¿Cuántos Tuktuk puedo reservar?\n¿Puedo cancelar mi tour?\n¿Puedo cambiar el día y hora de la reserva?\n¿Dónde me recoge y deja mi conductor?"
+}

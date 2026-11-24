@@ -1,0 +1,203 @@
+{
+ "title": "Lanzarote - Arrecife, especial cruceros - Descubre Tenerife en Tuk Tuk - TokeTuk Canarias",
+ "h": 3375,
+ "widgets": {
+  "html.default": 1,
+  "heading.default": 3,
+  "text-editor.default": 2,
+  "media-carousel.default": 1,
+  "google_maps.default": 1,
+  "toggle.default": 1
+ },
+ "imgs": [],
+ "bgs": [
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/10/portadaArre-1.png",
+   "w": 550,
+   "h": 450,
+   "top": 978
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/10/tourArre6.png",
+   "w": 550,
+   "h": 450,
+   "top": 978
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/10/tourArre5.png",
+   "w": 550,
+   "h": 450,
+   "top": 978
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/10/tourArre4.png",
+   "w": 550,
+   "h": 450,
+   "top": 978
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/10/tourArre2.png",
+   "w": 550,
+   "h": 450,
+   "top": 978
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/10/portadaArre-1.png",
+   "w": 550,
+   "h": 450,
+   "top": 978
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/10/tourArre6.png",
+   "w": 550,
+   "h": 450,
+   "top": 978
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/10/tourArre5.png",
+   "w": 550,
+   "h": 450,
+   "top": 978
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/10/tourArre4.png",
+   "w": 550,
+   "h": 450,
+   "top": 978
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/10/tourArre2.png",
+   "w": 550,
+   "h": 450,
+   "top": 978
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/10/portadaArre-1.png",
+   "w": 550,
+   "h": 450,
+   "top": 978
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/10/tourArre6.png",
+   "w": 550,
+   "h": 450,
+   "top": 978
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/10/tourArre5.png",
+   "w": 550,
+   "h": 450,
+   "top": 978
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/10/tourArre4.png",
+   "w": 550,
+   "h": 450,
+   "top": 978
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/10/tourArre2.png",
+   "w": 550,
+   "h": 450,
+   "top": 978
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/10/portadaArre-1.png",
+   "w": 102,
+   "h": 44,
+   "top": 1438
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/10/tourArre6.png",
+   "w": 102,
+   "h": 44,
+   "top": 1438
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/10/tourArre5.png",
+   "w": 102,
+   "h": 44,
+   "top": 1438
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/10/tourArre4.png",
+   "w": 102,
+   "h": 44,
+   "top": 1438
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/10/tourArre2.png",
+   "w": 102,
+   "h": 44,
+   "top": 1438
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/10/portadaArre-1.png",
+   "w": 102,
+   "h": 44,
+   "top": 1438
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/10/tourArre6.png",
+   "w": 102,
+   "h": 44,
+   "top": 1438
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/10/tourArre5.png",
+   "w": 102,
+   "h": 44,
+   "top": 1438
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/10/tourArre4.png",
+   "w": 102,
+   "h": 44,
+   "top": 1438
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/10/tourArre2.png",
+   "w": 102,
+   "h": 44,
+   "top": 1438
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/10/portadaArre-1.png",
+   "w": 102,
+   "h": 44,
+   "top": 1438
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/10/tourArre6.png",
+   "w": 102,
+   "h": 44,
+   "top": 1438
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/10/tourArre5.png",
+   "w": 102,
+   "h": 44,
+   "top": 1438
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/10/tourArre4.png",
+   "w": 102,
+   "h": 44,
+   "top": 1438
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/10/tourArre2.png",
+   "w": 102,
+   "h": 44,
+   "top": 1438
+  }
+ ],
+ "iframes": [
+  "https://app.turitop.com/booking/box/T1657/P117/es?ts=1795562624177&returnUrl=aHR0cHM6Ly90b2tldHVrY2FuYXJpYXMuY29tL2xhbnphcm90ZS1hcnJlY2lmZS1lc3BlY2lhbC1jcnVjZXJvcy8=",
+  "https://maps.google.com/maps?q=28.964166%2C%20-13.537213&t=m&z=16&output=embed&iwloc=near"
+ ],
+ "links": [
+  ""
+ ],
+ "text": "Arrecife en Tuk Tuk – ideal para cruceros\n\n¡Descubre Arrecife, la capital de Lanzarote, de una forma diferente!\n\nSúbete a nuestro tuk tuk 100 % eléctrico y disfruta de un recorrido panorámico de 90 minutos especialmente diseñado para pasajeros de cruceros. Descubre los rincones más emblemáticos de la ciudad, su historia marinera y su frente marítimo junto al Atlántico.\n\nDesde la zona portuaria recorreremos lugares tan especiales como el Castillo de San José, el Charco de San Ginés, el Puente de las Bolas, el Castillo de San Gabriel y la Playa del Reducto, combinando historia, cultura y espectaculares vistas al mar.\n\nDurante el recorrido haremos paradas para fotografiar los lugares más representativos de Arrecife y te contaremos su historia, para que regreses cómodamente al punto de salida a tiempo para tu barco.\n\nNuestro recorrido comienza en Marina Lanzarote, donde recorremos la zona portuaria y disfrutamos de las primeras vistas del entorno marítimo de la capital.\n\nContinuamos hacia el Castillo de San José, una fortaleza del siglo XVIII situada junto al mar, donde te contamos brevemente su historia. Desde allí nos adentramos en el Charco de San Ginés, uno de los rincones más auténticos de Arrecife, con sus casas tradicionales de pescadores, sus embarcaciones y su paseo marítimo. Aquí hacemos una parada destacada para fotografías.\n\nSeguimos por el casco histórico, pasando por la Iglesia de San Ginés, el Ayuntamiento de Arrecife y el emblemático Puente de las Bolas con el Castillo de San Gabriel, dos símbolos del patrimonio histórico de la ciudad.\n\nLa ruta continúa por la costa hasta el Islote de la Fermina, con vistas panorámicas del litoral y del océano Atlántico, y recorremos el frente marítimo de la Playa del Reducto y el Gran Hotel.\n\nPara terminar, regresamos al punto de salida, completando una experiencia de 90 minutos.\n\nLugar de Salida\nPreguntas más frecuentes\n¿Cuántas personas caben en un Tuktuk?\n¿Cuántos Tuktuk puedo reservar?\n¿Puedo cancelar mi tour?\n¿Puedo cambiar el día y hora de la reserva?\n¿Dónde me recoge y deja mi guía?"
+}

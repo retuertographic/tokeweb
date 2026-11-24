@@ -1,0 +1,239 @@
+{
+ "title": "Descubre la Historia y Miradores de Las Palmas en Tuk Tuk (90 min.) - Descubre Tenerife en Tuk Tuk - TokeTuk Canarias",
+ "h": 3306,
+ "widgets": {
+  "html.default": 1,
+  "heading.default": 3,
+  "text-editor.default": 2,
+  "media-carousel.default": 1,
+  "google_maps.default": 1,
+  "toggle.default": 1
+ },
+ "imgs": [],
+ "bgs": [
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/62.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 930
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/61.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 930
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/63.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 930
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/60.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 930
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/57.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 930
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/56.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 930
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/62.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 930
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/61.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 930
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/63.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 930
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/60.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 930
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/57.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 930
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/56.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 930
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/62.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 930
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/61.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 930
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/63.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 930
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/60.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 930
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/57.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 930
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/56.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 930
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/62.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1390
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/61.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1390
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/63.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1390
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/60.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1390
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/57.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1390
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/56.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1390
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/62.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1390
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/61.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1390
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/63.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1390
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/60.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1390
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/57.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1390
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/56.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1390
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/62.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1390
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/61.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1390
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/63.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1390
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/60.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1390
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/57.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1390
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/56.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1390
+  }
+ ],
+ "iframes": [
+  "https://app.turitop.com/booking/box/T1657/P112/es?ts=1795562637147&returnUrl=aHR0cHM6Ly90b2tldHVrY2FuYXJpYXMuY29tL2hpc3RvcmlhLW1pcmFkb3Jlcy1sYXMtcGFsbWFzLXR1ay10dWsv",
+  "https://maps.google.com/maps?q=Muelle%20de%20Sta.%20Catalina%2C%20s%20%2F%20n%2C%2035008%20Las%20Palmas%20de%20Gran%20Canaria%2C%20Las%20Palmas%2C%20Spanien&t=m&z=14&output=embed&iwloc=near"
+ ],
+ "links": [
+  ""
+ ],
+ "text": "Descubre la Historia y Miradores de Las Palmas en Tuk Tuk\n\nSi quieres conocer el alma verdadera de Las Palmas de Gran Canaria, esta es tu ruta. Durante 90 minutos, nuestro tuk tuk te transportará a través de los barrios más históricos y pintorescos de la ciudad, con paradas en lugares que guardan siglos de historia canaria.\n\nEl recorrido arranca en el barrio de Triana, junto al Parque San Telmo, donde la arquitectura modernista y el bullicio del comercio local marcan el tono de la aventura. Desde allí, nos dirigimos al imponente Castillo de Mata, una fortaleza que ha sido testigo de siglos de historia isleña.\n\nAdentrándonos en el barrio de Vegueta, declarado Patrimonio Histórico, descubrirás el Barrio San Antonio y el fascinante Museo Canario, que alberga una de las colecciones arqueológicas más importantes del archipiélago.\n\nEl recorrido continúa hasta la majestuosa Catedral de Santa Ana, con su imponente fachada y su plaza llena de palomas y vida local, donde tendrás tiempo para fotografiar este rincón único. El momento más especial llega en el Mirador de Schamann, desde donde se abre ante ti una panorámica impresionante de la ciudad y el Atlántico que te dejará sin palabras y con las mejores fotos del viaje.\n\nPara cerrar con elegancia, el tuk tuk te llevará por el frondoso Parque Doramas y el señorial barrio de Ciudad Jardín, hasta llegar al histórico Hotel Santa Catalina, punto final de una ruta que une pasado y presente de forma inigualable.\n\nUna experiencia imprescindible para amantes de la historia, la fotografía y la cultura canaria.\n\nLugar de Salida\nPreguntas más frecuentes\n¿Cuántas personas caben en un Tuktuk?\n¿Cuántos Tuktuk puedo reservar?\n¿Puedo cancelar mi tour?\n¿Puedo cambiar el día y hora de la reserva?\n¿Dónde me recoge y deja mi guía?"
+}

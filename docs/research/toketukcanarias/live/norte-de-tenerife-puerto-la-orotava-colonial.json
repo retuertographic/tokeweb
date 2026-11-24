@@ -1,0 +1,200 @@
+{
+ "title": "Norte de Tenerife - Puerto + La Orotava Colonial - Descubre Tenerife en Tuk Tuk - TokeTuk Canarias",
+ "h": 2894,
+ "widgets": {
+  "html.default": 1,
+  "heading.default": 2,
+  "text-editor.default": 2,
+  "media-carousel.default": 1,
+  "google_maps.default": 1
+ },
+ "imgs": [],
+ "bgs": [
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/33.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 977
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/34.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 977
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/35.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 977
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/36.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 977
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/38.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 977
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/33.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 977
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/34.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 977
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/35.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 977
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/36.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 977
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/38.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 977
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/33.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 977
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/34.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 977
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/35.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 977
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/36.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 977
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/38.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 977
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/33.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1437
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/34.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1437
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/35.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1437
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/36.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1437
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/38.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1437
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/33.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1437
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/34.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1437
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/35.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1437
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/36.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1437
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/38.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1437
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/33.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1437
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/34.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1437
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/35.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1437
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/36.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1437
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/38.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1437
+  }
+ ],
+ "iframes": [
+  "https://app.turitop.com/booking/box/T1657/P9/es?ts=1795562642578&returnUrl=aHR0cHM6Ly90b2tldHVrY2FuYXJpYXMuY29tL25vcnRlLWRlLXRlbmVyaWZlLXB1ZXJ0by1sYS1vcm90YXZhLWNvbG9uaWFsLw==",
+  "https://maps.google.com/maps?q=Centro%20comercial%20La%20Pir%C3%A1mide%20Puerto%20de%20La%20Cruz&t=m&z=14&output=embed&iwloc=near"
+ ],
+ "links": [],
+ "text": "Norte de Tenerife - Puerto + La Orotava Colonial\n\nEste tour de 3 horas es una de las experiencias más completas para quienes desean sumergirse en la historia, la arquitectura y los paisajes del norte de Tenerife.\n\nComenzamos con un breve recorrido por los puntos más emblemáticos de Puerto de la Cruz, como el Lago Martiánez, el Mirador de San Telmo, el Jardín Botánico y el Castillo de San Felipe.\n\nDesde allí, subimos en tuk tuk por una carretera alternativa y escénica hacia el corazón de La Orotava, una joya colonial repleta de historia y elegancia canaria.\n\nEn el casco histórico visitamos la famosa Casa de los Balcones, la majestuosa Iglesia de La Concepción y los emblemáticos Jardines Victoria, con tiempo para tomar fotos, disfrutar del ambiente o incluso parar brevemente para un café en una terraza local.\n\nFinalizamos la experiencia regresando a Puerto de la Cruz con vistas panorámicas del valle de La Orotava, que ofrece uno de los paisajes más verdes y fotogénicos de la isla.\n\n Punto de Salida: Centro Comercial Martiánez, Av. Aguilar y Quesada, 1A, 38400 Puerto de la Cruz; En el interior del Parking, Planta -1\n\nLugar de Salida"
+}

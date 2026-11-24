@@ -1,0 +1,275 @@
+{
+ "title": "Santa Cruz - Cultural y Moderna - Descubre Tenerife en Tuk Tuk - TokeTuk Canarias",
+ "h": 3339,
+ "widgets": {
+  "html.default": 1,
+  "heading.default": 3,
+  "text-editor.default": 2,
+  "media-carousel.default": 1,
+  "google_maps.default": 1,
+  "toggle.default": 1
+ },
+ "imgs": [],
+ "bgs": [
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/10.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/14.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/9.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/8.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/13.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/12.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/11.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/10.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/14.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/9.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/8.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/13.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/12.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/11.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/10.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/14.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/9.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/8.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/13.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/12.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/11.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/10.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/14.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/9.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/8.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/13.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/12.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/11.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/10.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/14.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/9.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/8.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/13.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/12.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/11.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/10.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/14.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/9.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/8.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/13.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/12.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/11.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  }
+ ],
+ "iframes": [
+  "https://app.turitop.com/booking/box/T1657/P2/es?ts=1795562657982&returnUrl=aHR0cHM6Ly90b2tldHVrY2FuYXJpYXMuY29tL2NydXotY3VsdHVyYWwteS1tb2Rlcm5hLw==",
+  "https://maps.google.com/maps?q=Calle%20Fern%C3%A1ndez%20Navarro%2C%20n%207%2C%20Santa%20Cruz%20de%20Tenerife%2C%20Espa%C3%B1a&t=m&z=14&output=embed&iwloc=near"
+ ],
+ "links": [
+  ""
+ ],
+ "text": "Santa Cruz Moderna & Cultura\n\nEste recorrido está diseñado para quienes desean profundizar en la historia y la vida cultural de Santa Cruz, explorando sus rincones más emblemáticos y descubriendo tanto la tradición como la modernidad de la capital.\n\nEl tour incluye todos los puntos del recorrido exprés de 1 hora, ampliando la experiencia con visitas exclusivas que enriquecen la visión de la ciudad.\n\nTras comenzar en la Plaza de España, seguiremos hacia la Avenida Marítima y realizaremos paradas en el Auditorio de Tenerife y el Castillo de San Juan, antes de disfrutar del Parque Marítimo César Manrique, la Rambla de Santa Cruz y el Parque García Sanabria.\n\nPosteriormente, ascenderemos al mirador de Ifara, desde donde se aprecian las mejores vistas panorámicas de la ciudad, el puerto y las montañas de Anaga. Continuaremos con la visita al Mercado de Nuestra Señora de África, un espacio lleno de historia, aromas y arquitectura neocolonial que refleja la tradición comercial de Tenerife.\n\nLa ruta prosigue por el Barrio Salamanca, un área tranquila con arquitectura típica canaria, antes de realizar una parada frente al Museo de Naturaleza y Arqueología (MUNA), que alberga la historia aborigen de la isla.\n\nFinalmente, recorreremos zonas con arte urbano y arquitectura civil moderna, descubriendo esculturas y murales que llenan de color la ciudad, para concluir en la Plaza Weyler o la Plaza de la Candelaria, dos espacios icónicos que combinan historia, modernidad y vida comercial.\n\nUn tour perfecto para los amantes de la cultura, el arte y la arquitectura, que combina de manera equilibrada tradición y modernidad.\n\n Punto de Salida: Calle de Fernández Navarro 7, 38003 Santa Cruz de Tenerife\n\nLugar de Salida\nPreguntas más frecuentes\n¿Cuántas personas caben en un Tuktuk?\n¿Cuántos Tuktuk puedo reservar?\n¿Puedo cancelar mi tour?\n¿Puedo cambiar el día y hora de la reserva?\n¿Dónde me recoge y deja mi conductor?"
+}

@@ -1,0 +1,344 @@
+{
+ "title": "Sur de Tenerife - Tenerife Esencial Sur - Descubre Tenerife en Tuk Tuk - TokeTuk Canarias",
+ "h": 2965,
+ "widgets": {
+  "html.default": 1,
+  "heading.default": 2,
+  "text-editor.default": 2,
+  "media-carousel.default": 1,
+  "google_maps.default": 1
+ },
+ "imgs": [],
+ "bgs": [
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/26.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1057
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/25.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1057
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/24.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1057
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/23.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1057
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/22.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1057
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/21.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1057
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/20.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1057
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/19.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1057
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/18.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1057
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/26.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1057
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/25.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1057
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/24.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1057
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/23.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1057
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/22.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1057
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/21.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1057
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/20.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1057
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/19.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1057
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/18.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1057
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/26.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1057
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/25.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1057
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/24.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1057
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/23.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1057
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/22.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1057
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/21.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1057
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/20.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1057
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/19.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1057
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/18.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 1057
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/26.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1517
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/25.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1517
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/24.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1517
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/23.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1517
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/22.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1517
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/21.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1517
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/20.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1517
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/19.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1517
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/18.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1517
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/26.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1517
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/25.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1517
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/24.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1517
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/23.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1517
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/22.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1517
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/21.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1517
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/20.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1517
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/19.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1517
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/18.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1517
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/26.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1517
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/25.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1517
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/24.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1517
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/23.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1517
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/22.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1517
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/21.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1517
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/20.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1517
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/19.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1517
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/18.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1517
+  }
+ ],
+ "iframes": [
+  "https://app.turitop.com/booking/box/T1657/P12/es?ts=1795562647728&returnUrl=aHR0cHM6Ly90b2tldHVrY2FuYXJpYXMuY29tL3N1ci1kZS10ZW5lcmlmZS10ZW5lcmlmZS1lc2VuY2lhbC1zdXIv",
+  "https://maps.google.com/maps?q=Gara%20Suites%20Golf%20%26%20Spa%2C%20C.%20Landa%20Golf%2C%202%2C%2038650%20Playa%20de%20las%20Am%C3%A9ricas%2C%20Santa%20Cruz%20de%20Tenerife&t=m&z=14&output=embed&iwloc=near"
+ ],
+ "links": [],
+ "text": "Sur de Tenerife - Tenerife Esencial Sur\n\nEste tour de 3 horas te ofrece una visión completa y auténtica del sur de Tenerife, combinando cultura local, naturaleza volcánica, panorámicas costeras y zonas turísticas con encanto. Perfecto para quienes quieren disfrutar de todo en una sola experiencia, sin estrés y sin necesidad de coche.\n\nComenzamos en Costa Adeje y subimos hacia el corazón tradicional del municipio: Adeje pueblo, donde visitamos su plaza, iglesia y la emblemática Calle Grande. Luego paramos en el mirador del Barranco del Infierno para disfrutar de sus vistas impresionantes (desde el exterior).\n\nDesde allí, descendemos hacia la costa pasando por Callao Salvaje y La Caleta, donde admiramos tanto las zonas hoteleras de lujo como las playas naturales que definen esta parte de la isla.\n\nLa ruta continúa de forma panorámica bordeando el mar: Playa Fañabé, Puerto Colón, Playa de Las Américas y hasta Los Cristianos, donde haremos una parada junto al puerto o recorreremos parte de su paseo marítimo.\n\nSi el grupo lo desea, podemos realizar una pequeña caminata en una zona natural cercana (por ejemplo, hacia el faro), ideal para respirar aire puro y tomar fotos.Terminamos la experiencia con una parada final en un mirador panorámico, como el de San Eugenio Alto, para cerrar con broche de oro esta ruta diversa y enriquecedora.\n\nLugar de Salida: Edificio Simon, Av. Juan Carlos I, 38650 Playa de las Américas, Santa Cruz de Tenerife\n\n Servicio de recogida disponible para hoteles en Los Cristianos, Las Américas, Fañabé y Bahía del Duque. Por favor, especifique su hotel.\n\nLugar de Salida"
+}

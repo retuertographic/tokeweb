@@ -1,0 +1,311 @@
+{
+ "title": "Descubre la Costa & Ciudad Moderna de Las Palmas, Gran Canaria en Tuk Tuk - Descubre Tenerife en Tuk Tuk - TokeTuk Canarias",
+ "h": 3344,
+ "widgets": {
+  "html.default": 1,
+  "heading.default": 3,
+  "text-editor.default": 2,
+  "media-carousel.default": 1,
+  "google_maps.default": 1,
+  "toggle.default": 1
+ },
+ "imgs": [],
+ "bgs": [
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/63.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 968
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/62.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 968
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/61.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 968
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/60.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 968
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/59.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 968
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/58.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 968
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/57.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 968
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/56.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 968
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/63.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 968
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/62.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 968
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/61.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 968
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/60.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 968
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/59.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 968
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/58.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 968
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/57.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 968
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/56.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 968
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/63.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 968
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/62.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 968
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/61.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 968
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/60.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 968
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/59.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 968
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/58.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 968
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/57.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 968
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/56.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 968
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/63.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1428
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/62.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1428
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/61.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1428
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/60.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1428
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/59.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1428
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/58.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1428
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/57.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1428
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/56.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1428
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/63.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1428
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/62.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1428
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/61.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1428
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/60.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1428
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/59.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1428
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/58.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1428
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/57.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1428
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/56.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1428
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/63.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1428
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/62.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1428
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/61.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1428
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/60.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1428
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/59.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1428
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/58.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1428
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/57.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1428
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/05/56.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1428
+  }
+ ],
+ "iframes": [
+  "https://app.turitop.com/booking/box/T1657/P111/es?ts=1795562636091&returnUrl=aHR0cHM6Ly90b2tldHVrY2FuYXJpYXMuY29tL2NpdWRhZC1tb2Rlcm5hLWxhcy1wYWxtYXMtZ3Jhbi1jYW5hcmlhLw==",
+  "https://maps.google.com/maps?q=muelle%20de%20santa%20catalina&t=m&z=14&output=embed&iwloc=near"
+ ],
+ "links": [
+  ""
+ ],
+ "text": "Descubre la Costa & Ciudad Moderna de Las Palmas en Gran Canaria\n\nSúbete a nuestro cómodo tuk tuk y prepárate para ver Las Palmas de Gran Canaria desde una perspectiva completamente diferente.\n\nEn solo una hora, recorrerás algunos de los rincones más icónicos de la ciudad, combinando el frescor de la brisa atlántica con la energía de la urbe moderna. La aventura comienza en el animado Parque Santa Catalina, uno de los puntos más vibrantes de la ciudad. Desde allí, te llevaremos al Mercado del Puerto, donde la arquitectura y el ambiente local te darán la bienvenida.\n\nContinuaremos hacia Las Coloradas, con una parada en mirador para que captures las mejores fotografías del litoral.\n\nSiguiendo la costa, llegarás a La Puntilla y a la famosa Playa de Las Canteras, una de las playas urbanas más bonitas de Europa, con otra parada para inmortalizar el momento.\n\nEl recorrido continúa por la elegante Mesa y López con parada en la Plaza España, el corazón comercial y social de la ciudad. El broche final lo pone el magnífico Auditorio Alfredo Kraus, una obra arquitectónica que parece emerger del mar, donde harás la última parada fotográfica con vistas al Atlántico.\n\nUna experiencia perfecta para toda la familia, parejas y viajeros curiosos que quieren descubrir lo mejor de Las Palmas sin perder ni un minuto.\n\nLugar de Salida\nPreguntas más frecuentes\n¿Cuántas personas caben en un Tuktuk?\n¿Cuántos Tuktuk puedo reservar?\n¿Puedo cancelar mi tour?\n¿Puedo cambiar el día y hora de la reserva?\n¿Dónde me recoge y deja mi guía?"
+}

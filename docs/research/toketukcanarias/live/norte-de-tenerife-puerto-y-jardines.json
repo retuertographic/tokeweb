@@ -1,0 +1,200 @@
+{
+ "title": "Norte de Tenerife - Puerto y Jardines - Descubre Tenerife en Tuk Tuk - TokeTuk Canarias",
+ "h": 2880,
+ "widgets": {
+  "html.default": 1,
+  "heading.default": 2,
+  "text-editor.default": 2,
+  "media-carousel.default": 1,
+  "google_maps.default": 1
+ },
+ "imgs": [],
+ "bgs": [
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/33.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/34.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/35.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/36.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/38.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/33.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/34.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/35.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/36.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/38.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/33.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/34.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/35.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/36.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/38.jpg",
+   "w": 550,
+   "h": 450,
+   "top": 963
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/33.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/34.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/35.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/36.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/38.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/33.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/34.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/35.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/36.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/38.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/33.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/34.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/35.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/36.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  },
+  {
+   "bg": "https://toketukcanarias.com/wp-content/uploads/2026/03/38.jpg",
+   "w": 102,
+   "h": 44,
+   "top": 1423
+  }
+ ],
+ "iframes": [
+  "https://app.turitop.com/booking/box/T1657/P8/es?ts=1795562641871&returnUrl=aHR0cHM6Ly90b2tldHVrY2FuYXJpYXMuY29tL25vcnRlLWRlLXRlbmVyaWZlLXB1ZXJ0by15LWphcmRpbmVzLw==",
+  "https://maps.google.com/maps?q=Centro%20Comercial%20La%20Pir%C3%A1mide%20Puerto%20de%20La%20Cruz&t=m&z=14&output=embed&iwloc=near"
+ ],
+ "links": [],
+ "text": "Norte de Tenerife - Puerto y Jardines\n\nEste tour de 2 horas es una invitación a descubrir el lado más verde, tranquilo y auténtico de Puerto de la Cruz, combinando jardines históricos, miradores costeros y zonas tradicionales.\n\nPartimos del centro y retomamos lo mejor del tour clásico, incluyendo el Lago Martiánez, el Mirador de San Telmo y las calles peatonales más representativas. Desde allí, nos dirigimos al interior del Jardín Botánico de Aclimatación, una joya natural fundada en 1788, que alberga especies tropicales y subtropicales de todo el mundo.\n\nContinuamos hacia el Mirador de La Paz, desde donde se puede apreciar la costa norte en todo su esplendor. Pasamos por la zona hotelera, donde conocerás más sobre la historia del turismo en la isla, y luego realizamos un breve paseo por una zona de plataneras tradicionales, símbolo del paisaje agrícola del norte de Tenerife.\n\nTerminamos el recorrido con una parada junto al Castillo de San Felipe, una antigua fortificación frente al mar, ideal para una foto final antes del regreso.\n\n Punto de Salida: Centro Comercial Martiánez, Av. Aguilar y Quesada, 1A, 38400 Puerto de la Cruz; En el interior del Parking, Planta -1\n\nLugar de Salida"
+}

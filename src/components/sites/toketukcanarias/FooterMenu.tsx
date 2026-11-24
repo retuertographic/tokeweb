@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { useState } from "react";
 import { nav } from "./data";
 import { Icon } from "./Icon";
@@ -18,10 +19,10 @@ export function FooterMenu() {
           {open === item.label && item.children && (
             <ul>
               <li>
-                <a href={item.href}>{item.label}</a>
+                <Link href={item.href ?? "#"}>{item.label}</Link>
               </li>
               {item.children.map((child) => (
-                <li key={child.label}>{child.href ? <a href={child.href}>{child.label}</a> : <span>{child.label}</span>}</li>
+                <li key={child.label}>{child.href ? <Link href={child.href}>{child.label}</Link> : <span>{child.label}</span>}</li>
               ))}
             </ul>
           )}
